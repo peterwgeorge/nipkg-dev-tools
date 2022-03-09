@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "create-build-context-menus/1.0.0": {
+        "dependencies": {
+          "ContextMenuCreator": "1.0.0.0"
+        },
+        "runtime": {
+          "create-build-context-menus.dll": {}
+        }
+      },
+      "ContextMenuCreator/1.0.0.0": {
+        "runtime": {
+          "ContextMenuCreator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "create-build-context-menus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContextMenuCreator/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

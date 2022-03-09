@@ -1,0 +1,10 @@
+Architecture: windows_x64
+Conflicts:
+Description: Creates clickable and right-clickable build options for nipkg.exe
+Maintainer: Peter George <peterwgeorge on GitHub>
+Package: nipkg-dev-tools
+Replaces: 
+Version: 1.0.0
+Section: Utilities
+XB-Plugin: file
+XB-UserVisible: yes

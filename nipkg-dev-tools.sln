@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nipkg-context-menu", "nipkg-context-menu-exe\nipkg-context-menu.csproj", "{C8501DDB-AA50-4F14-9E19-F3C2C53949C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "create-build-context-menus", "create-build-context-menus\create-build-context-menus.csproj", "{F0AD8C10-5713-4F58-9FF9-51FF403DB4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8501DDB-AA50-4F14-9E19-F3C2C53949C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8501DDB-AA50-4F14-9E19-F3C2C53949C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8501DDB-AA50-4F14-9E19-F3C2C53949C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8501DDB-AA50-4F14-9E19-F3C2C53949C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0AD8C10-5713-4F58-9FF9-51FF403DB4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0AD8C10-5713-4F58-9FF9-51FF403DB4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0AD8C10-5713-4F58-9FF9-51FF403DB4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AD8C10-5713-4F58-9FF9-51FF403DB4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8956108A-27C6-4A93-89EC-DCC2C3C59B58}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+<instructions>
+    <customExecutes>
+		<customExecute step="install" schedule="post" root="NIPkgMgrTemp" exeName="create-build-context-menus.exe" arguments="" wait="y" ignoreErrors="y"/>
+    </customExecutes>
+</instructions>
